@@ -12,5 +12,6 @@
 ## DataSet
 - https://ourworldindata.org/covid-deaths
 ## Visualization
-![Screenshot (115)](https://user-images.githubusercontent.com/76864608/222071747-48e70fcf-bbfa-413e-9f8e-6e17edb1357a.png)
-- https://public.tableau.com/shared/QDDBH64RB?:display_count=n&:origin=viz_share_link
+![Screenshot (116)](https://user-images.githubusercontent.com/76864608/222072200-ed2810b9-1277-4ff2-8683-adfcdfeb3691.png)
+
+- https://public.tableau.com/shared/F2DY8KPHZ?:display_count=n&:origin=viz_share_link
